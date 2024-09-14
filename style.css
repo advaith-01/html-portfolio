@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(176, 169, 191);
 }
 
 #first{
@@ -21,9 +21,14 @@ p{
 
 .main{
     text-align: center;
-    background-color: rgb(176, 169, 191);
 }
 
-.submain{
-    text-align: center;
+p{
+    padding:0px;
+}
+
+p{
+    background-color: rgb(209, 186, 131); 
+    border: 4px dashed rgb(143, 103, 103);
+
 }
